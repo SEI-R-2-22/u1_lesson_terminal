@@ -117,7 +117,7 @@ Below are some examples of using relative and absolute path for the same action:
 | `df -h`   | displays free disk space                                                        |
 
 
-*Note: If you are using Zsh, you can leave out the `cd` entirely; the directly name itself will move you into it.  
+*Note: If you are using Zsh, you can leave out the `cd` entirely; the directly name itself will move you into it.
 
 ## Examples
 - Copy command - `cp`
@@ -143,12 +143,12 @@ man ls
 Let's put our terminal skills to the test and build a few important directories
 
 - First, we'll `cd ~` to change directories to the root directory of our machines
-- Next, let's create a new directory called `ga_seir` (or something similar) 
+- Next, let's create a new directory called `ga_seir` (or something similar)
 ```
 mkdir ga_seir
 ```
 - We'll be using this as the main directory to house all of our future repositories throughout the course
-- Now we'll need a directory for each unit in our cohort, why don't we try creating them all in one command? 
+- Now we'll need a directory for each unit in our cohort, why don't we try creating them all in one command?
 - `cd` into `ga_seir` first
 ```
 mkdir unit1 unit2 unit3 unit4
@@ -197,7 +197,7 @@ touch name.txt
 ```
 echo "Hi, my name is <your_name>" >> name.txt
 ```
-- What if we wanted to read that .txt file from our terminal? There's a command for that! 
+- What if we wanted to read that .txt file from our terminal? There's a command for that!
 - Use the `cat` command to read the .txt file we've just added characters to
 ```
 cat name.txt
@@ -224,8 +224,10 @@ In this lesson we learned about using MacOS terminal commands, which can be very
 - `touch` create a file within a directory
 - `mv` move a file or directory to a new location
 - `rm` permanently remove a file within a directory
-- `rm -rf` permanently deletes all of the files within a directory along with the directory itself 
+- `rm -rf` permanently deletes all of the files within a directory along with the directory itself
 
 ## Resources
 [MacOS Terminal Commands](https://www.makeuseof.com/tag/mac-terminal-commands-cheat-sheet/)
+
+[OMZ Cheatsheet](https://github.com/ohmyzsh/ohmyzsh/wiki/Cheatsheet)
 
