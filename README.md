@@ -6,6 +6,10 @@
 In this lesson we will be covering how to use the MacOS Terminal. As a developer, you will likely be using your terminal every day to manage your workflow or execute commands to install and maintain necessary packages for applications you will be building. At the end of this lesson, we will use our terminal knowledge to build a file structure that will be used throughout the cohort.
 
 
+Please note that this class, and this field as a whole, are moving in a Mac-centric direction. It will be possible to go through these lessons with a PC, but there may be some additional steps needed at each point.
+
+If you are having any problems, or if you are seeing any strange error messages on your screen, please let your instructors know. Remember, if one person is seeing an error message, there is a good chance that others in the class will be as well, so please pay attention when your classmates show off their error messages. 
+
 ## Objectives
 *After this lesson, students will be able to:*
 - Understand what the MacOS Terminal is
