@@ -121,6 +121,8 @@ Below are some examples of using relative and absolute path for the same action:
 | `df -h`   | displays free disk space                                                        |
 
 
+You will NOT be expected to have all of these commands memorized by the end of the day. As we continue on in the class, and you begin to use these each day, you will feel more and more comfortable with these different commands. 
+
 *Note: If you are using Zsh, you can leave out the `cd` entirely; the directly name itself will move you into it.
 
 ## Examples
